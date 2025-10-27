@@ -7,13 +7,6 @@
 
 ---
 
-### 🚀 My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,git,github,vscode" />
-</p>
-
----
-
 ### 🌐 Social network
 <p align="center">
   <!-- YouTube -->
