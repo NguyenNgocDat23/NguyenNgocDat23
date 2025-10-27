@@ -35,6 +35,3 @@
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
 </a>
 </p>
-
----
-⭐️ From [NguyenNgocDat23](https://github.com/NguyenNgocDat23)
