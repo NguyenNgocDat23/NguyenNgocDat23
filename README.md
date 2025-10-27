@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00b3ff&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+Flutter+%26+Open+Source+Projects;Let’s+build+cool+things+together!"/>
 </p>
 
-### 🌐 Social network
 <p align="center">
   <!-- YouTube -->
 <a href="https://www.youtube.com/@thulofi" target="_blank">
